@@ -10,7 +10,6 @@
     You Plan | We Organize
     <br/>
     <br/>
-    <a href="https://hevently.vercel.app/"><strong>Link to website »</strong></a>
     <br />
     <br />
   </h3>
